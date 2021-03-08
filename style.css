@@ -2,6 +2,7 @@
 body{ overflow: hidden; background: #3e3e3e; color: #DEDEDE; }
 .ghs_weather{ width: 100vw; height: 100vh; }
 .ghs_weather .ghs_current_weather{ height: 50vh; font-size: 5rem; text-align: center; display: flex; align-items: center; justify-content: center; margin-top: 3rem; }
+.ghs_time{ margin: 0; font-size: 1.5rem; }
 .ghs_weather .ghs_current_weather .weather_status{ font-size: 2rem; margin: auto; line-height: 2rem; }
 .ghs_weather .ghs_current_weather .ghs_temp{ font-size: 5rem; margin: 0; line-height: 7rem; }
 .ghs_weather .ghs_forecast_weather{ list-style: none; display: flex; }
