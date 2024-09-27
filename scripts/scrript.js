@@ -1,6 +1,6 @@
 // JavaScript Document
 
-var URI_weather = 'https://api.openweathermap.org/data/3.0/onecall?lat=37.061120&lon=-93.309500&exclude=minutely,hourly,alerts&units=imperial&appid=3c890e2eb127beb3199800aea092bd52';
+var URI_weather = 'https://api.openweathermap.org/data/3.0/onecall?lat=37.061120&lon=-93.309500&exclude=minutely&units=imperial&appid=3c890e2eb127beb3199800aea092bd52';
 var current = [];
 var forecast = [];
 var currentTime = new Date();
